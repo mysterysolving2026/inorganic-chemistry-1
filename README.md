@@ -2,7 +2,7 @@
 <html lang="ja">
 <head>
 <meta charset="UTF-8">
-<title>植物栄養学2(6~10)</title>
+<title>植物栄養学</title>
 <style>
 body {
     font-family: "Yu Gothic", sans-serif;
@@ -51,7 +51,7 @@ function toggleAnswer(id) {
 
 <body>
 
-<h1>植物栄養学2(6〜10)</h1>
+<h1>植物栄養学</h1>
 <!-- Q1 -->
 <div class="question">
     <p><b>1. ノーマン・ボーローグが行った1940〜1960年代の食料大量増産は何と呼ばれるか？</b></p>
